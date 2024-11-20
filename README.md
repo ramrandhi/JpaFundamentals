@@ -1,0 +1,2 @@
+# JpaFundamentals
+spring jpa basics
